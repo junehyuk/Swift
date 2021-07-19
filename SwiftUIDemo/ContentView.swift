@@ -9,6 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     
+    //주석 한줄 추가
     var colors : [Color] = [.black,.red,.green,.blue]
     var colornames = ["Black","Red","Green","Blue"]
 
